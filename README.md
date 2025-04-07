@@ -16,7 +16,7 @@
 </h1>
 
 ### :woman_technologist: About Me :
-- 🚶‍  I'm from Belarus.
+- 🚶‍  I'm from Belarus. Now I'm live in Poland.
 - 🐍 I'm a Frontend Developer.
 - 🤖 Most of the time I'm writing on JavaScript, React and TypeScript.
 - 📄 My professional experience [CV](https://drive.google.com/file/d/1M60OFHTgYZOoEJTuRJXsOTrjKYJ5bEck/view?usp=sharing).
