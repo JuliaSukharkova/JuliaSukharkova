@@ -49,10 +49,3 @@ Hi, everybody! I'm Julia. I'm interested in frontend development and everything 
   <img height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma">
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="Webpack">
 </div>
-
-### Some stats:
-
-![Years](https://badges.pufler.dev/years/JuliaSukharkova?style=flat-square&color=orange&logo=github&a=0)
-![Repos](https://badges.pufler.dev/repos/JuliaSukharkova?style=flat-square&color=orange&logo=github&a=0)
-![Commits](https://badges.pufler.dev/commits/monthly/JuliaSukharkova?style=flat-square&color=orange&logo=github&a=0)
-![Profile Views](https://badges.pufler.dev/visits/JuliaSukharkova/JuliaSukharkova?style=flat-square&color=orange&logo=github)
