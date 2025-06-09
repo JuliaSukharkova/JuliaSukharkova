@@ -25,12 +25,11 @@ Hi, everybody! I'm Julia. I'm interested in frontend development and everything 
 🗺 **Location**: From Belarus, now living in Warsaw, Poland 🇵🇱  
 👩‍💻 **Passion**: Crafting pet projects like Forms to explore new technologies  
 ⭐️ **Goal**: Advance my career and contribute to innovative teams  
+📄 **CV**:  My professional experience [CV](https://drive.google.com/file/d/1D9SJ3eHdnHEz3RoOZQQ4I_a_1z56AAzy/view?usp=sharing) </br>
 🤗 **Languages**:  
   - 🇷🇺 Russian (Native)  
   - 🇬🇧 English (B1 Intermediate)  
-  - 🇵🇱 Polish (Basic)  
-📄 **CV**:  My professional experience [CV](https://drive.google.com/file/d/1D9SJ3eHdnHEz3RoOZQQ4I_a_1z56AAzy/view?usp=sharing)
-
+  - 🇵🇱 Polish (Basic)
 ---
 
 ### 🛠 Technologies
